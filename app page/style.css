@@ -1,0 +1,78 @@
+body{
+    background-color: rgb(183, 227, 238);
+    margin: 30px 50px;
+    font-family: sans-serif;
+}
+
+
+.container{
+    background-color: #E8FE0E;
+    text-align: center;
+    padding: 20px;
+    margin-left: -18px;
+    width: 100%;
+    height: 550px;
+    border-radius: 8px;
+    box-shadow: 5px 5px 8px 6px rgba(54, 41, 41, 0.2);
+}
+
+h2{
+    font-size: 40px;
+    font-weight: 700;
+    color: black;
+}
+p{
+    font-weight: 500;
+    color: #000000;
+    font-size: 14px;
+}
+
+input{
+    background: #f5fcff;
+    width: 25rem;
+    height: 2.8rem;
+    padding-left: 1.5rem;
+    border: none;
+    border-radius: 10px;
+    box-shadow: inset 2px 2px 5px 0 rgba(0, 0, 0, 0.16),inset -2px -2px 5px 0 rgba(255, 255, 255, 0.5);
+    outline: none;
+    font-size: 13px;
+    font-family: sans-serif;
+    font-weight: 400;
+}
+button{
+    background: #006eeb;
+    margin-top: 2.5rem;
+    margin-bottom: 3rem;
+    padding: 1.3rem 4rem;
+    border: none;
+    border-radius: 22px;
+    color: #fff;
+    font-family: sans-serif;
+    font-weight: 600;
+    font-size: 14px;
+    text-transform: uppercase;
+    box-shadow: 0px 3px 8px 2px rgba(0, 118, 252, .3);
+}
+.frontpage{ 
+    text-align: center;
+    margin-top: 0px;
+    margin-left: 345px;
+    background-color: #7cc601;
+    height: auto;
+    width: 520px;
+    border-radius: 73px;
+}
+
+/* signup css part */
+.container2{
+    background-color: #E8FE0E;
+    text-align: center;
+    margin-left: -18px;
+    margin-top: 40px;
+    padding: 20px;
+    width: 100%;
+    height: 550px;
+    border-radius: 8px;
+    box-shadow: 5px 5px 8px 6px rgba(54, 41, 41, 0.2);
+}
